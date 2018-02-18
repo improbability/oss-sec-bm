@@ -1,0 +1,1 @@
+javascript:(function(){var%20d=new%20Date();var%20y=d.getFullYear();var%20q=1+Math.trunc(d.getMonth()/3);location.href='http://seclists.org/oss-sec/'+y+'/q'+q+'/#end';})()
